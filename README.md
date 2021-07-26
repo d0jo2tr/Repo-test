@@ -1,24 +1,24 @@
 # Repo-test
 
-# size change
+# size change "\n"
 ### TEST
 
-#subs
+#subs "\n"
 * something
 
 - something else
 + others
 
-#links
+#links "\n"
 [click me](https://www.google.com)
 
 [link](http://www.reddit.com)
 
 [whatever](https://stackoverflow.com)
 
-#markdown
+#markdown"\n"
 Inline `code` has `back-ticks around` it
-
+"\n"
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
