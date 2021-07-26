@@ -41,5 +41,11 @@ But let's throw in a <b>tag</b>.
 ```
 
 three or less...
-three or more..
+
+---
+
+three or more
+***
+
 three.
+---
