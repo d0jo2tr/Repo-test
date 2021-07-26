@@ -10,4 +10,4 @@
 
 [click me](https://www.google.com)
 
-[link text itself]: http://www.reddit.com
+[link text itself]:(http://www.reddit.com)
