@@ -42,7 +42,7 @@ But let's throw in a <b>tag</b>.
 
 
 ```
-print("Hello README!")
+print "Hello README!"
 ```
 
 three or less...
