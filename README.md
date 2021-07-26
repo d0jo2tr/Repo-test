@@ -1,15 +1,18 @@
 # Repo-test
 
 # size change
+
+
 ### TEST
 
-#subs "\n"
-* something
+#subs
 
+* something
 - something else
 + others
 
-//links
+
+#links
 
 [click me](https://www.google.com)
 
@@ -17,7 +20,9 @@
 
 [whatever](https://stackoverflow.com)
 
+
 #markdown
+
 Inline `code` has `back-ticks around` it
 "\n"
 ```javascript
