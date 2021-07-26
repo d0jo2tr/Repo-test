@@ -12,4 +12,4 @@
 
 [link](http://www.reddit.com)
 
-[I'm a reference-style link][https://stackoverflow.com]
+[whatever](https://stackoverflow.com)
