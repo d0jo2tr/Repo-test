@@ -8,4 +8,4 @@
 + others
 
 
-[I'm an inline-style link](https://www.google.com)
+[click me](https://www.google.com)
