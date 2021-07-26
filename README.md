@@ -41,7 +41,7 @@ But let's throw in a <b>tag</b>.
 ```
 
 
-```
+```python
 print "Hello README!"
 ```
 
